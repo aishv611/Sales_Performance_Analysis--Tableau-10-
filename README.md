@@ -1,4 +1,4 @@
-# Analysis of Sales wrt. Sales Target of Super Market Store
+# Sales Performance Analysis
 ## (using Tableau 10)
 
 ### Background:
