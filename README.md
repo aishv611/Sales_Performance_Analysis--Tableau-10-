@@ -13,5 +13,5 @@ Used two datasets here i.e. Sample - Superstore and Sales_Target.
 - Sample - Superstore which covers Orders data from 2014 - 2017
 
 `You can directly see the dashboard on Tableau Public Server.`
-(https://public.tableau.com/app/profile/aishwarya.laxmi.veeramalla/viz/SalesPerformanceAnalysis_16305177702550/Dashboard?publish=yes)
+https://public.tableau.com/app/profile/aishwarya.laxmi.veeramalla/viz/SalesPerformanceAnalysis_16305177702550/Dashboard?publish=yes
 
